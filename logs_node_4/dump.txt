@@ -1,0 +1,183 @@
+Raft node 4 started on port 60004 and 50004.
+election_timeout started for t =  6
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+Node 4(follower) received GETclient request.
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0
+
+Node 4(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 4(follower) accepted AppendEntries RPC from 0

@@ -1,0 +1,315 @@
+Raft node 0 started on port 60000 and 50000.
+election_timeout started for t =  5
+Node 0(follower) timed out for term 0. Starting Election
+
+election_timeout started for t =  8
+Node 0(candidate) transitions to candidate state for term 1
+Node 0(candidate) voted for itself.
+Node 0(candidate) sending RequestVote RPC to 60001.
+Vote Granted! 
+Node 0(candidate) received vote from 60001.
+Node 0(candidate) sending RequestVote RPC to 60002.
+Vote Granted! 
+Node 0(candidate) received vote from 60002.
+Node 0(candidate) became the leader for term 1
+heartbeat_timeout started for t =  1
+leader_lease_timeout started for t =  10
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {}
+Node 0(leader) received SETclient request.
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+Node 0(leader) received GETclient request.
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}
+
+Node 0(leader) sent AppendEntries RPC to localhost:60001.
+Node 0(leader) sent AppendEntries RPC to localhost:60002.
+Node 0(leader) sent AppendEntries RPC to localhost:60003.
+Node 0(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'X': '4'}

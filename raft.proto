@@ -1,0 +1,68 @@
+syntax = "proto3";
+
+package raft;
+
+message LogEntry {
+  // Define the structure of each log entry
+  string operation = 1;
+  int32 term = 2;
+  int32 index = 3;
+  string key = 4;
+  string value = 5;
+}
+
+message AppendEntryArgs {
+  // Arguments for AppendEntry RPC
+  int32 term = 1;
+  int32 leader_id = 2;
+  int32 prev_log_index = 3;
+  int32 prev_log_term = 4;
+  repeated LogEntry entries = 5;
+  int32 leader_commit = 6;
+  // Additional field for leader lease
+  int64 lease_duration = 7;
+}
+
+message AppendEntryReply {
+  // Reply for AppendEntry RPC
+  int32 term = 1;
+  bool success = 2;
+}
+
+message RequestVoteArgs {
+  // Arguments for RequestVote RPC
+  int32 term = 1;
+  int32 candidate_id = 2;
+  int32 last_log_index = 3;
+  int32 last_log_term = 4;
+  // Additional field for old leader's lease duration
+  int64 remaining_leader_lease_duration = 5;
+}
+
+message RequestVoteReply {
+  // Reply for RequestVote RPC
+  int32 term = 1;
+  bool vote_granted = 2;
+}
+
+message ClientRequest {
+  // Define the structure of client requests
+  string operation = 1;
+  string key = 2;
+  string value = 3;
+}
+
+message ServeClientReply {
+  // Reply for serving client requests
+  string data = 1;
+  string leader_id = 2;
+  bool success = 3;
+}
+
+service RaftService {
+  // RPC methods for Raft consensus algorithm
+  rpc AppendEntry(AppendEntryArgs) returns (AppendEntryReply) {}
+  rpc RequestVote(RequestVoteArgs) returns (RequestVoteReply) {}
+  rpc ServeClient(ClientRequest) returns (ServeClientReply) {}
+  rpc ReceiveInfo(ServeClientReply) returns (ServeClientReply) {}
+}
