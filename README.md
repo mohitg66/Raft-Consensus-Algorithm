@@ -15,7 +15,7 @@ This project implements the Raft consensus algorithm in Python using gRPC for co
 
 1. Clone the repository:
     ```sh
-    git clone github.com/mohitg66/Raft-Consensus-Algorithm.git
+    git clone https://github.com/mohitg66/Raft-Consensus-Algorithm.git
     cd Raft-Consensus-Algorithm
     ```
 
